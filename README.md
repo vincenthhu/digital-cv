@@ -19,7 +19,15 @@ _Bioinformatician_
 + Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
     - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Annotation, QTL/GWAS, etc.
 
++ Proficiency in project consulting, planning, experiment design, result intepretation and grant/manuscript preparation
++ Strong programming skills with statistics and machine-learning background
+    - R, Python, Shell, C++, nextflow, Anaconda, GitHub, etc.
+    - Statistical modeling, svm, randomforest, Lasso, etc.
++ Strong communication skills, work ethics and fast-learning ability
 
+## Working HISTORY
+
++ **Bioinformatician II**                    2018 ~ 2021
 
 You can use the [editor on GitHub](https://github.com/vincenthhu/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
