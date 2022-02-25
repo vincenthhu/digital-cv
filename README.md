@@ -33,8 +33,8 @@ _Bioinformatician_
 ## 👩🏼‍💻 Education
 
 + **Ph.D.--Bioinformatics**  
-    * University of Illinois at Chicago * (2015)  
-    ** Thesis title **: Identification of transcriptional regulatory elements: novel machine learning approaches
+    *University of Illinois at Chicago* (2015)  
+    **Thesis title**: Identification of transcriptional regulatory elements: novel machine learning approaches
     
 ## 👩🏼‍💻 PUBLICATIONS
 + Bao, L., Chau, C. S., Lei, Z., **Hu, H.**, Chan, A. G., Amber, K. T., Maienschein-Cline, M., & Tsoukas, M. M. (2021). Dysregulated microRNA expression in IL-4 transgenic mice, an animal model of atopic dermatitis. Archives of Dermatological Research, 313(10), 837–846. 
