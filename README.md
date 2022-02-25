@@ -27,7 +27,15 @@ _Bioinformatician_
 
 ## Working HISTORY
 
-+ **Bioinformatician II**                    2018 ~ 2021
+
+
+
+## 👩🏼‍💻 Education
+
++ **Ph.D.--Bioinformatics**  
+    * University of Illinois at Chicago * (2015)
+    ** Thesis title **: Identification of transcriptional regulatory elements: novel machine learning approaches
+    
 
 You can use the [editor on GitHub](https://github.com/vincenthhu/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
