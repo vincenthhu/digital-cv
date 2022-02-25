@@ -33,7 +33,7 @@ _Bioinformatician_
 ## 👩🏼‍💻 Education
 
 + **Ph.D.--Bioinformatics**  
-    * University of Illinois at Chicago * (2015)
+    * University of Illinois at Chicago * (2015)  
     ** Thesis title **: Identification of transcriptional regulatory elements: novel machine learning approaches
     
 ## 👩🏼‍💻 PUBLICATIONS
@@ -41,9 +41,9 @@ _Bioinformatician_
 + McGilvray, P. T., Anghel, S. A., Sundaram, A., Zhong, F., Trnka, M. J., Fuller, J. R., Hu, H., Burlingame, A. L., & Keenan, R. J. (2020). An ER translocon for multi-pass membrane protein biogenesis. ELife, 9, e56889. 
 + Ebenezer, D. L., Fu, P., Krishnan, Y., Maienschein-Cline, M., Hu, H., Jung, S., Madduri, R., Arbieva, Z., Harijith, A., & Natarajan, V. (2019). Genetic deletion of Sphk2 confers protection against Pseudomonas aeruginosa mediated differential expression of genes related to virulent infection and inflammation in mouse lung. BMC Genomics, 20, 984. 
 + Xuan, W., Wang, Y., Tang, Y., Ali, A., Hu, H., Maienschein-Cline, M., & Ashraf, M. (2018). Cardiac Progenitors Induced from Human Induced Pluripotent Stem Cells with Cardiogenic Small Molecule Effectively Regenerate Infarcted Hearts and Attenuate Fibrosis. Shock (Augusta, Ga.), 50(6), 627–639. 
-•	Hu, W., Hu, D., Xie, L., Hu, H., Li, Y., Nonn, L., Shioda, T., & Prins, G. S. (2018). Abstract 3063: Stem cell lineage hierarchy by keratin profiling in normal human prostate epithelial cells and prostate cancer. Cancer Research, 78(13 Supplement), 3063–3063. 
-•	Ebenezer, D. L., Fu, P., Krishnan, Y. H., Jung, S. C., Hu, H., Arbieva, Z., Madduri, R., Harijith, A. K., & Natarajan, V. (2018). Expression profiling of genes regulated by Sphingosine kinase 2 in a murine model of Pseudomonas aeruginosa mediated acute lung inflammation. The FASEB Journal, 32(S1), 540.11-540.11. 
-•	Cook, L. C. C., Hu, H., Maienschein-Cline, M., & Federle, M. J. (2018). A Vaginal Tract Signal Detected by the Group B Streptococcus SaeRS System Elicits Transcriptomic Changes and Enhances Murine Colonization. Infection and Immunity, 86(4), e00762-17
++ Hu, W., Hu, D., Xie, L., Hu, H., Li, Y., Nonn, L., Shioda, T., & Prins, G. S. (2018). Abstract 3063: Stem cell lineage hierarchy by keratin profiling in normal human prostate epithelial cells and prostate cancer. Cancer Research, 78(13 Supplement), 3063–3063. 
++ Ebenezer, D. L., Fu, P., Krishnan, Y. H., Jung, S. C., Hu, H., Arbieva, Z., Madduri, R., Harijith, A. K., & Natarajan, V. (2018). Expression profiling of genes regulated by Sphingosine kinase 2 in a murine model of Pseudomonas aeruginosa mediated acute lung inflammation. The FASEB Journal, 32(S1), 540.11-540.11. 
++ Cook, L. C. C., Hu, H., Maienschein-Cline, M., & Federle, M. J. (2018). A Vaginal Tract Signal Detected by the Group B Streptococcus SaeRS System Elicits Transcriptomic Changes and Enhances Murine Colonization. Infection and Immunity, 86(4), e00762-17
 •	Maker, A., Green, S., Hu, H., Brugge, W., Winter, J., Hackert, T., Buchler, M., Lawler, R., Scarpa, A., & Bassi, C. (2017). A single-platform cyst fluid assay to predict IPMN with high-malignant potential for surgical resection: A multi-institutional international report. HPB, 19, S7–S8. 
 •	Hu, W.-Y., Hu, D.-P., Xie, L., Li, Y., Majumdar, S., Nonn, L., Hu, H., Shioda, T., & Prins, G. S. (2017). Isolation and Functional Interrogation of Adult Human Prostate Epithelial Stem Cells at Single Cell Resolution. Stem Cell Research, 23, 1–12
 •	Xu, J., Hu, H., & Dai, Y. (2016). LMethyR-SVM: Predict Human Enhancers Using Low Methylated Regions based on Weighted Support Vector Machines. PloS One, 11(9), e0163491. 
