@@ -1,8 +1,17 @@
 # Hong Hu
 
-_Bioinformatician
+_Bioinformatician_
+
+[GitHub](https://github.com/vincenthhu/)
 
 =====================
+
+## 👩🏼‍💻 Professional Summary
+
+. Bioinformatician with over seven years of hands-on working experience
+
+. Extensive expertise in NGS and multiomics data analysis/trouble-shooting
+    .WGS, WES
 
 You can use the [editor on GitHub](https://github.com/vincenthhu/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
