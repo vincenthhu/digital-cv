@@ -8,10 +8,18 @@ _Bioinformatician_
 
 ## 👩🏼‍💻 Professional Summary
 
-. Bioinformatician with over seven years of hands-on working experience
++ Bioinformatician with over seven years of hands-on working experience
 
-. Extensive expertise in NGS and multiomics data analysis/trouble-shooting
-    .WGS, WES
++ Extensive expertise in NGS and multiomics data analysis/trouble-shooting
+    - WGS, WES
+    - Bulk/single-cell RNAseq
+    - ChIPseq, ATACseq, BSseq, MEDIPseq, etc.
+    - Analysis pipeline development and maintainance in HPC environment
+
++ Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
+    - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Annotation, QTL/GWAS, etc.
+
+
 
 You can use the [editor on GitHub](https://github.com/vincenthhu/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
