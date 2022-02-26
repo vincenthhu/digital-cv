@@ -9,16 +9,13 @@ _Bioinformatician_
 ## Professional Summary
 
 + Bioinformatician with over seven years of hands-on working experience
-
 + Extensive expertise in NGS and multiomics data analysis/trouble-shooting
     - WGS, WES
     - Bulk/single-cell RNAseq
     - ChIPseq, ATACseq, BSseq, MEDIPseq, etc.
     - Analysis pipeline development and maintainance in HPC environment
-
 + Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
     - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Annotation, QTL/GWAS, etc.
-
 + Proficiency in project consulting, planning, experiment design, result intepretation and grant/manuscript preparation
 + Strong programming skills with statistics and machine-learning background
     - R, Python, Shell, C++, nextflow, Anaconda, GitHub, etc.
