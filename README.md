@@ -35,7 +35,7 @@ _Bioinformatician_
     
 ## SELECTED PROJECTS
 
-+ **WES data analysis of cancer patient samples**
++ **WES data analysis of cancer patient samples**  
     **Project Range**: WES analysis, including preprocessing, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation
     
 ## PUBLICATIONS
