@@ -36,6 +36,11 @@ _Bioinformatician_
     *University of Illinois at Chicago* (2015)  
     **Thesis title**: Identification of transcriptional regulatory elements: novel machine learning approaches
     
+## SELECTED PROJECTS
+
++ **WES data analysis of cancer patient samples**
+    **Project Range**: WES analysis, including preprocessing, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation
+    
 ## PUBLICATIONS
 + Bao, L., Chau, C. S., Lei, Z., **Hu, H.**, Chan, A. G., Amber, K. T., Maienschein-Cline, M., & Tsoukas, M. M. (2021). Dysregulated microRNA expression in IL-4 transgenic mice, an animal model of atopic dermatitis. Archives of Dermatological Research, 313(10), 837–846. 
 + McGilvray, P. T., Anghel, S. A., Sundaram, A., Zhong, F., Trnka, M. J., Fuller, J. R., **Hu, H.**, Burlingame, A. L., & Keenan, R. J. (2020). An ER translocon for multi-pass membrane protein biogenesis. ELife, 9, e56889. 
