@@ -6,7 +6,7 @@ _Bioinformatician_
 
 =====================
 
-## 👩🏼‍💻 Professional Summary
+## Professional Summary
 
 + Bioinformatician with over seven years of hands-on working experience
 
@@ -30,13 +30,13 @@ _Bioinformatician_
 
 
 
-## 👩🏼‍💻 Education
+## Education
 
 + **Ph.D.--Bioinformatics**  
     *University of Illinois at Chicago* (2015)  
     **Thesis title**: Identification of transcriptional regulatory elements: novel machine learning approaches
     
-## 👩🏼‍💻 PUBLICATIONS
+## PUBLICATIONS
 + Bao, L., Chau, C. S., Lei, Z., **Hu, H.**, Chan, A. G., Amber, K. T., Maienschein-Cline, M., & Tsoukas, M. M. (2021). Dysregulated microRNA expression in IL-4 transgenic mice, an animal model of atopic dermatitis. Archives of Dermatological Research, 313(10), 837–846. 
 + McGilvray, P. T., Anghel, S. A., Sundaram, A., Zhong, F., Trnka, M. J., Fuller, J. R., **Hu, H.**, Burlingame, A. L., & Keenan, R. J. (2020). An ER translocon for multi-pass membrane protein biogenesis. ELife, 9, e56889. 
 + Ebenezer, D. L., Fu, P., Krishnan, Y., Maienschein-Cline, M., **Hu, H.**, Jung, S., Madduri, R., Arbieva, Z., Harijith, A., & Natarajan, V. (2019). Genetic deletion of Sphk2 confers protection against Pseudomonas aeruginosa mediated differential expression of genes related to virulent infection and inflammation in mouse lung. BMC Genomics, 20, 984. 
@@ -54,7 +54,7 @@ _Bioinformatician_
 + **Hu, H.**, Roqueiro, D., & Dai, Y. (2011). Prioritizing predicted cis-regulatory elements for co-expressed gene sets based on Lasso regression models. 2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 6853–6856.
 + Book chapter: **Hu, H.**, & Dai, Y. (2016). Prioritize Transcription Factor Binding Sites for Multiple Co-Expressed Gene Sets Based on Lasso Multinomial Regression Models. In Emerging Research in the Analysis and Modeling of Gene Regulatory Networks (pp. 280–315). IGI Global
 
-## 👩 REVIEW BOARD
+## REVIEW BOARD
 
 + IEEE Journal of Biomedical and Health Informatics. 2017
 + Book chapter in Emerging Research in the Analysis and Modeling of Gene Regulatory Networks. IGI Global. 2015
