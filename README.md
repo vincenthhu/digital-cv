@@ -43,9 +43,9 @@ _Bioinformatician_
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
 
 + **scRNA data analysis of mouse samples (10X)**  
-    **Purpose**:
+    **Purpose**: 10x scRNA data of mouse samples in two matched experimental conditions are collected analyzed. A complete scRNA workflow from QC to differential analysis and cell type prediction was applied  to identify the matching cell subpopulations and conserved marker genes.  
     **Techniques**:  
-    + Cell QC control & filtering, doublet removal, normalization, integration and Clustering, marker prioritization and cell type prediction
+    + Cell QC control & filtering, doublet removal, normalization, integration and Clustering/visualization, marker prioritization and cell type prediction
     + R, Seurat, DoubletFinder, Tidyverse, Monocol3, CellRanger
 
 ## SELECTED RESEARCH EXPERIENCE
