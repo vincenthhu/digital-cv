@@ -42,9 +42,11 @@ _Bioinformatician_
     + Shell, R, Python, nextflow, nf-core
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
 
-+ **scRNA data analysis of mouse samples**
++ **scRNA data analysis of mouse samples (10X)**  
     **Purpose**:
-
+    **Techniques**:  
+    + Cell QC control & filtering, doublet removal, normalization, integration and Clustering, marker prioritization and cell type prediction
+    + R, Seurat, DoubletFinder, Tidyverse, Monocol3, CellRanger
 
 ## SELECTED RESEARCH EXPERIENCE
 
