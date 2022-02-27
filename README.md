@@ -37,6 +37,27 @@ _Bioinformatician_
 
 + **WES data analysis of cancer patient samples**  
     **Project Range**: WES analysis, including preprocessing, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation
+
+## SELECTED RESEARCH EXPERIENCE
+
++ **Study of transcriptional factor binding sites in Low methylated regions**
+
+    **Purpose**: Low methylated regions, the non-random continuous low methylation level regions, have been marked as the potential transcriptional regulatory regions, especially for the distal enhancer region. This project aims to identify the low methylated regions from whole genome bisulfite sequencing data for DNA methylation, identify the pairwise cell-line-specific low methylated regions, and select the cell-line-specific low methylation regions associate to the differentially expressed genes with machine-learning methods.
+
+    **Techniques**:
+
+    + BiSulfite-seq & RNA-seq data analysis, Differential gene expression analysis
+    + R, Bioconductor packages including:  MethylSeekR, ChIPpeakAnno, glmnet, RSamtools, GenomicFeatures, GenomicRanges, NOISeq, PWMEnrich, PSICQUIC, etc.
+    + Database: UCSC Genome Browser (including ENCODE), NCBI (GEO, RefSeq, dbSNP)
+    + Shell
+
++ **Modeling of gene expression time course and transcriptional regulatory network reconstruction**
+
+    **Purpose**: Transcription factors bind to the target genes to regulate the gene expression, which can be measured by microarray or RNA-seq across time points to obtain gene expression temporal profiles.  In this project, predicted transcription factor binding information are used to reconstruct the putative gene regulatory network and lasso-penalized regression is utilized for feature selection to prioritize the edges in gene regulatory network which best model the gene expression time course.
+    **Techniques**:
+    + Microarray data analysis (HGU133A)
+    + R, Bioconductor packages including: limma, affy, glmnet
+    + Matlab, CytoScape
     
 ## PUBLICATIONS
 + Bao, L., Chau, C. S., Lei, Z., **Hu, H.**, Chan, A. G., Amber, K. T., Maienschein-Cline, M., & Tsoukas, M. M. (2021). Dysregulated microRNA expression in IL-4 transgenic mice, an animal model of atopic dermatitis. Archives of Dermatological Research, 313(10), 837–846. 
