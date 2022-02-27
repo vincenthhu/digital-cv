@@ -1,4 +1,4 @@
-# Hong Hu
+# Vincent Hu
 
 _Bioinformatician_
 
@@ -35,8 +35,12 @@ _Bioinformatician_
     
 ## SELECTED PROJECTS
 
-+ **WES data analysis of cancer patient samples**  
-    **Project Range**: WES analysis, including preprocessing, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation
++ **WES data analysis of cancer patient samples**
+
+    **Purpose**: Analysis of WES data of matched cancer patients data to identify the possible biomarkers, including somatic SNVs and CNVs.
+    **Techniques**: 
+    + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
+    
 
 ## SELECTED RESEARCH EXPERIENCE
 
