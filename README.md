@@ -36,11 +36,15 @@ _Bioinformatician_
 ## SELECTED PROJECTS
 
 + **WES data analysis of cancer patient samples**
-
     **Purpose**: Analysis of WES data of matched cancer patients data to identify the possible biomarkers, including somatic SNVs and CNVs.
     **Techniques**: 
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
-    
+    + Shell, R, Python, nextflow, nf-core
+    + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
+
++ **scRNA data analysis of mouse samples**
+    **Purpose**:
+
 
 ## SELECTED RESEARCH EXPERIENCE
 
