@@ -12,10 +12,10 @@ _Bioinformatician_
 + Extensive expertise in NGS and multiomics data analysis/trouble-shooting
     - WGS, WES
     - Bulk/single-cell RNAseq
-    - ChIPseq, ATACseq, BSseq, MEDIPseq, etc.
+    - ChIPseq, ATACseq, BSseq, MEDIPseq, Riboseq, HiC, etc.
     - Analysis pipeline development and maintainance in HPC environment
 + Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
-    - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Annotation, QTL/GWAS, etc.
+    - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Transcriptional Regulation, Annotation, QTL/GWAS, etc.
 + Proficiency in project consulting, planning, experiment design, result intepretation and grant/manuscript preparation
 + Strong programming skills with statistics and machine-learning background
     - R, Python, Shell, C++, nextflow, Anaconda, GitHub, etc.
@@ -35,8 +35,8 @@ _Bioinformatician_
     
 ## SELECTED PROJECTS
 
-+ **WES data analysis of cancer patient samples**
-    **Purpose**: Analysis of WES data of matched cancer patients data to identify the possible biomarkers, including somatic SNVs and CNVs.
++ **WES data analysis of cancer patient samples**  
+    **Purpose**: Identify the genetic variances in cancer patients before/after treatment. The Analysis of WES data of matched cancer patients data focus on identifying the possible biomarkers, including somatic SNVs and CNVs, which may play key roles in tumor supression. 
     **Techniques**: 
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
     + Shell, R, Python, nextflow, nf-core
