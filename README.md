@@ -3,6 +3,9 @@
 _Bioinformatician_
 
 [GitHub](https://github.com/vincenthhu/)  
+[A nf-core based pipeline for WES data analysis of paired samples](https://github.com/vincenthhu/nf-core-westest)
+[Python based NGS scripts](https://github.com/vincenthhu/Bioinfo)
+
 =====================
 
 ## Professional Summary
@@ -20,7 +23,6 @@ _Bioinformatician_
     - R, Python, Shell, C++, nextflow, Anaconda, GitHub, etc.
     - Statistical modeling, svm, randomforest, Lasso, etc.
 + Strong communication skills, work ethics and fast-learning ability
-
 
 ## Working HISTORY
 
@@ -44,7 +46,6 @@ _Bioinformatician_
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
     + Shell, R, Python, nextflow, nf-core, etc.
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
-    [A nf-core based pipeline for WES data analysis of paired samples](https://github.com/vincenthhu/nf-core-westest)
 
 
 + **scRNA data analysis of mouse samples (10X)**  
