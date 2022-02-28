@@ -22,6 +22,8 @@ _Bioinformatician_
     - Statistical modeling, svm, randomforest, Lasso, etc.
 + Strong communication skills, work ethics and fast-learning ability
 
+[A nf-core based pipeline for WES data analysis of paired cancer patients](https://github.com/vincenthhu/nf-core-westest)
+
 ## Working HISTORY
 
 + **Bioinformatician II**  (2018~2021)
