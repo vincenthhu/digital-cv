@@ -42,7 +42,7 @@ _Bioinformatician_
     **Purpose**: Identify the genetic variances in cancer patients before/after treatment. The Analysis of WES data of matched cancer patients data focus on identifying the possible biomarkers, including somatic SNVs and CNVs, which may play key roles in tumor supression.  The primary/secondary analysis of WES was applied to identify somatic SNVs and CNVs which may casually related with cancer status and treatment  
     **Techniques**: 
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
-    + Shell, R, Python, nextflow, nf-core
+    + Shell, R, Python, nextflow, nf-core, etc.
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
 
 + **scRNA data analysis of mouse samples (10X)**  
