@@ -69,7 +69,9 @@ _Bioinformatician_
 + **Modeling of gene expression time course and transcriptional regulatory network reconstruction**
 
     **Purpose**: Transcription factors bind to the target genes to regulate the gene expression, which can be measured by microarray or RNA-seq across time points to obtain gene expression temporal profiles.  In this project, predicted transcription factor binding information are used to reconstruct the putative gene regulatory network and lasso-penalized regression is utilized for feature selection to prioritize the edges in gene regulatory network which best model the gene expression time course.
+    
     **Techniques**:
+    
     + Microarray data analysis (HGU133A)
     + R, Bioconductor packages including: limma, affy, glmnet
     + Matlab, CytoScape
