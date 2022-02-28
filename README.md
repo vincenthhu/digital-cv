@@ -44,7 +44,7 @@ _Bioinformatician_
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
     + Shell, R, Python, nextflow, nf-core, etc.
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
-    [A nf-core based pipeline for WES data analysis of paired cancer patients](https://github.com/vincenthhu/nf-core-westest)
+    [A nf-core based pipeline for WES data analysis of paired samples](https://github.com/vincenthhu/nf-core-westest)
 
 
 + **scRNA data analysis of mouse samples (10X)**  
