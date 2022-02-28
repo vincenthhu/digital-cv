@@ -24,8 +24,11 @@ _Bioinformatician_
 
 ## Working HISTORY
 
-
-
++ **Bioinformatician II**  (2018~2021)
+    *Center for Research Informatics, University of Chicago*
+    
++ **Bioinformatics Specialist** (2015~2018)
+    *Research Resources Center, University of Illinois at Chicago*
 
 ## Education
 
@@ -48,7 +51,7 @@ _Bioinformatician_
     + Cell QC control & filtering, doublet removal, normalization, integration and Clustering/visualization, marker prioritization and cell type prediction
     + R, Seurat, DoubletFinder, Tidyverse, Monocol3, CellRanger
 
-+ **Single-cell RNAseq data analysis in prostate stem cells (Fluidigm C1)**
++ **Single-cell RNAseq data analysis in prostate stem cells (Fluidigm C1)**  
     **Project range**: Intensive cooperation with PI in whole process of the project, including Experiment design, QC and filtering, alignment and quantification, clustering and subgroup identification, pseudo-time prediction, and pathway analysis, marker gene identification, data visualization. Grant Proposal and manuscript support.  
     **Techniques**:  
     + STAR, Subread, Shell, HPC-based pipeline, Picard, R Bioconductor, MetaCore, GSEA, Monocle, etc.
