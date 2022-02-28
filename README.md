@@ -13,7 +13,7 @@ _Bioinformatician_
     - WGS, WES
     - Bulk/single-cell RNAseq
     - ChIPseq, ATACseq, BSseq, MEDIPseq, Riboseq, HiC, etc.
-    - Analysis pipeline development and maintainance in HPC environment
+    - Analysis pipeline development and maintenance in HPC environment
 + Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
     - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Transcriptional Regulation, Annotation, QTL/GWAS, etc.
 + Proficiency in project consulting, planning, experiment design, result intepretation and grant/manuscript preparation
