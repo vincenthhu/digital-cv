@@ -2,8 +2,7 @@
 
 _Bioinformatician_
 
-[GitHub](https://github.com/vincenthhu/)
-
+[GitHub](https://github.com/vincenthhu/)  
 =====================
 
 ## Professional Summary
