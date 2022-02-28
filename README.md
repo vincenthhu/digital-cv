@@ -21,7 +21,6 @@ _Bioinformatician_
     - Statistical modeling, svm, randomforest, Lasso, etc.
 + Strong communication skills, work ethics and fast-learning ability
 
-[A nf-core based pipeline for WES data analysis of paired cancer patients](https://github.com/vincenthhu/nf-core-westest)
 
 ## Working HISTORY
 
@@ -40,16 +39,18 @@ _Bioinformatician_
 ## SELECTED PROJECTS
 
 + **WES data analysis of cancer patient samples**  
-    **Purpose**: Identify the genetic variances in cancer patients before/after treatment. The WES data analysis of matched cancer patients data focus on identifying the possible biomarkers which may play key roles in tumor supression.  The primary/secondary analysis of WES was applied to identify somatic SNVs and CNVs which may casually related with cancer status and treatment  
+    **Purpose**: The WES data analysis of cancer patients pre/post treatment focus on identifying somatic SNVs and CNVs as possible biomarkers which may casually relate with cancer status and treatment and  play key roles in tumor suppression.   
     **Techniques**: 
     + Preprocessing, QC, alignment, germline/somatic variant calling, contamination estimation and filtering, annotation, marker prioritization. CNV calling, purity analysis 
     + Shell, R, Python, nextflow, nf-core, etc.
     + GATK4, BWA, samtools, multiQC, Trimgalore, Annovar, SnpEff, maftools, CNVkit, Absolute
+    [A nf-core based pipeline for WES data analysis of paired cancer patients](https://github.com/vincenthhu/nf-core-westest)
+
 
 + **scRNA data analysis of mouse samples (10X)**  
     **Purpose**: 10x scRNA data of mouse samples in two matched experimental conditions are collected analyzed. A complete scRNA workflow from QC to marker and cell type identification was applied to identify the matching cell subpopulations and conserved marker genes.  
     **Techniques**:  
-    + Cell QC control & filtering, doublet removal, normalization, integration and Clustering/visualization, marker prioritization and cell type prediction
+    + Cell QC control & filtering, doublet removal, normalization, integration and Clustering/visualization, marker prioritization, cell type and *pseudo*-time prediction
     + R, Seurat, DoubletFinder, Tidyverse, Monocol3, CellRanger
 
 + **Single-cell RNAseq data analysis in prostate stem cells (Fluidigm C1)**  
