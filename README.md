@@ -18,7 +18,7 @@ _Bioinformatician_
     - Bulk/single-cell RNAseq
     - ChIPseq, ATACseq, BSseq, MEDIPseq, Riboseq, HiC, etc.
     - Analysis pipeline development and maintenance in HPC environment
-+ Deep knowledege of Primary/Secondary analysis, Bioinformatics tools, databases
++ Deep knowledege of Secondary/Tertiary analysis, Bioinformatics tools, databases
     - Variant calling, Peaking calling, Differential analysis, Pathway analysis, Transcriptional Regulation, Annotation, QTL/GWAS, etc.
 + Proficiency in project consulting, planning, experiment design, result intepretation and grant/manuscript preparation
 + Strong programming skills with statistics and machine-learning background
